@@ -12,9 +12,9 @@
 
 <p align="center">
   <a href="https://caukt.fun"><img src="https://img.shields.io/badge/web-caukt.fun-1A2E4A?style=for-the-badge" alt="Website" /></a>
-  <a href="https://github.com/cauktdev/caukt"><img src="https://img.shields.io/badge/github-cauktLabs%2Fcaukt-1A2E4A?style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://x.com/cauktdotfun"><img src="https://img.shields.io/badge/x-cauktdotfun-0A1424?style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://t.me/caukt_market_bot"><img src="https://img.shields.io/badge/telegram-cauktdotfun__bot-5BC0EB?style=for-the-badge" alt="Telegram" /></a>
+  <a href="https://github.com/cauktlabs/caukt"><img src="https://img.shields.io/badge/github-cauktLabs%2Fcaukt-1A2E4A?style=for-the-badge" alt="GitHub" /></a>
+  <a href="https://x.com/cauktgame"><img src="https://img.shields.io/badge/x-cauktgame-0A1424?style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://t.me/cauktmarketbot"><img src="https://img.shields.io/badge/telegram-cauktgame__bot-5BC0EB?style=for-the-badge" alt="Telegram" /></a>
 </p>
 
 # caukt
@@ -77,7 +77,7 @@ You don't have to clone anything. Just walk in:
 | Your stalls    | https://caukt.fun/account             |
 | Docs           | https://caukt.fun/docs                |
 | Telegram bot   | https://t.me/caukt_market_bot         |
-| X / Twitter    | https://x.com/cauktdotfun             |
+| X / Twitter    | https://x.com/cauktgame             |
 
 The pages above are live on mainnet right now. Connect a Base wallet (Phantom / Solflare / Backpack), walk past a stall, ring the bell.
 
