@@ -1,5 +1,5 @@
 /**
- * Bid modal sketch — mirrors the live BidModal on aukt.click/market.
+ * Bid modal sketch — mirrors the live BidModal on caukt.fun/market.
  * Walks the user through current-price + max-price + holder-tier gate.
  */
 

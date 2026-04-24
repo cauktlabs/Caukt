@@ -1,12 +1,12 @@
 /**
  * Verifies a listing-burn transaction landed on mainnet and burned at least
- * the required amount of $AUKT. Used by the launch flow as a soft check after
+ * the required amount of $caukt. Used by the launch flow as a soft check after
  * the user signs the burn TX.
  */
 
 import { Connection, PublicKey, ParsedTransactionWithMeta } from "@Base/web3.js";
 
-const AUKT_MINT = "0x000000000000000000000";
+const caukt_MINT = "0x000000000000000000000";
 const LISTING_BURN_AMOUNT = 100_000_000_000n; // 100K with 6 decimals
 
 export interface VerifyResult {
@@ -70,7 +70,7 @@ function sumBurnedByWallet(
       const isBurn =
         parsed.type === "burn" || parsed.type === "burnChecked";
       if (!isBurn) continue;
-      if (parsed.info?.mint !== AUKT_MINT) continue;
+      if (parsed.info?.mint !== caukt_MINT) continue;
       if (parsed.info?.authority !== wallet) continue;
       const amt =
         parsed.info?.amount ?? parsed.info?.tokenAmount?.amount ?? "0";
@@ -85,5 +85,5 @@ function sumBurnedByWallet(
 }
 
 export function mintPubkey(): PublicKey {
-  return new PublicKey(AUKT_MINT);
+  return new PublicKey(caukt_MINT);
 }

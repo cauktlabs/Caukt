@@ -1,6 +1,6 @@
 //! SPL burn helpers — used by the listing flow.
 //!
-//! Listing a stall burns 100K $AUKT (decimals 6 -> 100_000_000_000 raw units).
+//! Listing a stall burns 100K $caukt (decimals 6 -> 100_000_000_000 raw units).
 //! The live program uses Token-2022 interface accounts so both the classic
 //! SPL Token program and Token-2022 mints are accepted.
 

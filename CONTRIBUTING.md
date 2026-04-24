@@ -1,6 +1,6 @@
-# Contributing to Aukt
+# Contributing to caukt
 
-Thanks for stopping by. This public repository mirrors the design notes, prototypes, and community-facing artifacts for Aukt. The live client, service, and on-chain program are developed in private repositories during pre-launch; once the public devnet window opens, select packages will move here.
+Thanks for stopping by. This public repository mirrors the design notes, prototypes, and community-facing artifacts for caukt. The live client, service, and on-chain program are developed in private repositories during pre-launch; once the public devnet window opens, select packages will move here.
 
 ## What we take
 
@@ -23,8 +23,8 @@ Short sentences. Ending with a period. No emoji. No hype words.
 ## Local workflow
 
 ```
-git clone https://github.com/auktdev/aukt.git
-cd aukt
+git clone https://github.com/cauktdev/caukt.git
+cd caukt
 python3 main.py --days 60 --seed 42 --dry-run
 ```
 

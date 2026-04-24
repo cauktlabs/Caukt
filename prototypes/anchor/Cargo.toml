@@ -1,8 +1,8 @@
 [package]
-name = "aukt-dutch-auction-proto"
+name = "caukt-dutch-auction-proto"
 version = "0.1.0"
 edition = "2021"
-description = "Aukt Dutch auction sketch — PDA seeds, curve, cancel path"
+description = "caukt Dutch auction sketch — PDA seeds, curve, cancel path"
 
 [lib]
 crate-type = ["cdylib", "lib"]

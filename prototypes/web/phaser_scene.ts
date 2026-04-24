@@ -1,6 +1,6 @@
 /**
  * Phaser scene sketch — dawn market hall with falling-price stalls.
- * Mirrors the live client at aukt.click. Kept here so the public repo has a
+ * Mirrors the live client at caukt.fun. Kept here so the public repo has a
  * runnable reference for the parallax + stall layout.
  */
 
@@ -37,7 +37,7 @@ export class MarketSceneProto extends Phaser.Scene {
     this.cameras.main.setBounds(0, 0, WORLD_WIDTH, WORLD_HEIGHT);
 
     this.buildStalls([
-      { id: "aukt", symbol: "$AUKT", tint: 0xd4a943 },
+      { id: "caukt", symbol: "$caukt", tint: 0xd4a943 },
       { id: "sol", symbol: "SOL", tint: 0x5bc0eb },
       { id: "nft", symbol: "NFT", tint: 0xe63946 },
       { id: "fish", symbol: "DAWN", tint: 0xa5d8e6 },
