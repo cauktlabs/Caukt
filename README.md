@@ -110,8 +110,8 @@ Everything below is already coded and shipped. These are not future promises —
 
 - `[BUILT · WALKING NOW]` Pixel hall — side-scrolling 16-bit market with parallax stalls, auctioneer animations, and live BGM. Live at `caukt.fun`.
 - `[BUILT · CA OPENING]` $caukt token — uniswap fair launch, no presale, no team allocation. CA badge auto-pins to the header the moment the mint goes live.
-- `[BUILT · BROADCASTING]` Telegram bell — `@caukt_market_bot` polling live, inline-keyboard subscribe flow, pings on every new stall.
-- `[BUILT · LIVE ON MAINNET]` Anchor Dutch auction program — running on Base mainnet, validated end-to-end. The devnet build (`Eq2KsgCrVA7MVHXVmNycMoKGHyeUqQfSSVPvshu9THfJ`) is kept around for staging.
+- `[BUILT · BROADCASTING]` Telegram bell — `@cauktmarketbot` polling live, inline-keyboard subscribe flow, pings on every new stall.
+- `[BUILT · LIVE ON MAINNET]` Anchor Dutch auction program — running on Base mainnet, validated end-to-end. The devnet build (`0x000000000000000000000000000`) is kept around for staging.
 - `[BUILT · OPENS ON FLAG]` Creator launchpad — `/launch` form, burn helpers, `create_auction` instruction wired end-to-end. Flips on the day the auction-live flag turns true.
 
 ## Contact
@@ -119,7 +119,7 @@ Everything below is already coded and shipped. These are not future promises —
 | Where          | Handle                            |
 |----------------|-----------------------------------|
 | Web            | https://caukt.fun                  |
-| X / Twitter    | https://x.com/cauktdotfun          |
-| Telegram bot   | https://t.me/caukt_market_bot      |
+| X / Twitter    | https://x.com/cauktgame          |
+| Telegram bot   | https://t.me/cauktmarketbot      |
 | Email          | hello@caukt.fun                    |
 | basescan        | https://basescan.io/account/0x000000000000000000000 |
