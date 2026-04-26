@@ -4,10 +4,10 @@
 
 <p align="center">
   <strong>$caukt CA</strong><br/>
-  <code>0x000000000000000000000</code><br/>
-  <a href="https://basescan.io/account/0x000000000000000000000">basescan</a> ·
-  <a href="https://uniswap/coin/0x000000000000000000000">uniswap</a> ·
-  <a href="https://dexscreener.com/Base/0x000000000000000000000">DexScreener</a>
+  <code>0xda3133892F400cEa947259c7B167a0F16D992a11</code><br/>
+  <a href="https://basescan.io/account/0xda3133892F400cEa947259c7B167a0F16D992a11">basescan</a> ·
+  <a href="https://uniswap/coin/0xda3133892F400cEa947259c7B167a0F16D992a11">uniswap</a> ·
+  <a href="https://dexscreener.com/Base/0xda3133892F400cEa947259c7B167a0F16D992a11">DexScreener</a>
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ Everything below is already coded and shipped. These are not future promises —
 - `[BUILT · WALKING NOW]` Pixel hall — side-scrolling 16-bit market with parallax stalls, auctioneer animations, and live BGM. Live at `caukt.fun`.
 - `[BUILT · CA OPENING]` $caukt token — uniswap fair launch, no presale, no team allocation. CA badge auto-pins to the header the moment the mint goes live.
 - `[BUILT · BROADCASTING]` Telegram bell — `@cauktmarketbot` polling live, inline-keyboard subscribe flow, pings on every new stall.
-- `[BUILT · LIVE ON MAINNET]` Anchor Dutch auction program — running on Base mainnet, validated end-to-end. The devnet build (`0x000000000000000000000000000`) is kept around for staging.
+- `[BUILT · LIVE ON MAINNET]` Anchor Dutch auction program — running on Base mainnet, validated end-to-end. The devnet build (`0xda3133892F400cEa947259c7B167a0F16D992a11000000`) is kept around for staging.
 - `[BUILT · OPENS ON FLAG]` Creator launchpad — `/launch` form, burn helpers, `create_auction` instruction wired end-to-end. Flips on the day the auction-live flag turns true.
 
 ## Contact
@@ -122,4 +122,4 @@ Everything below is already coded and shipped. These are not future promises —
 | X / Twitter    | https://x.com/cauktgame          |
 | Telegram bot   | https://t.me/cauktmarketbot      |
 | Email          | hello@caukt.fun                    |
-| basescan        | https://basescan.io/account/0x000000000000000000000 |
+| basescan        | https://basescan.io/account/0xda3133892F400cEa947259c7B167a0F16D992a11 |
